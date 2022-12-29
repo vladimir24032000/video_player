@@ -1,0 +1,44 @@
+<dependencies>
+  <compile
+      roots="__local_aars__:C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\libs\flutter.jar:unspecified@jar,C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android@@:::debug,androidx.annotation:annotation:1.5.0@jar,org.jetbrains.kotlin:kotlin-stdlib:1.7.10@jar,org.jetbrains:annotations:15.0@jar,org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10@jar">
+    <dependency
+        name="__local_aars__:C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\libs\flutter.jar:unspecified@jar"
+        simpleName="__local_aars__:C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\libs\flutter.jar"/>
+    <dependency
+        name="C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android@@:::debug"
+        simpleName="io.flutter.plugins.videoplayer:video_player_android"/>
+    <dependency
+        name="androidx.annotation:annotation:1.5.0@jar"
+        simpleName="androidx.annotation:annotation"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.7.10@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:15.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib-common"/>
+  </compile>
+  <package
+      roots="C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android@@:::debug,__local_aars__:C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\libs\flutter.jar:unspecified@jar,androidx.annotation:annotation:1.5.0@jar,org.jetbrains.kotlin:kotlin-stdlib:1.7.10@jar,org.jetbrains:annotations:15.0@jar,org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10@jar">
+    <dependency
+        name="C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android@@:::debug"
+        simpleName="io.flutter.plugins.videoplayer:video_player_android"/>
+    <dependency
+        name="__local_aars__:C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\libs\flutter.jar:unspecified@jar"
+        simpleName="__local_aars__:C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\libs\flutter.jar"/>
+    <dependency
+        name="androidx.annotation:annotation:1.5.0@jar"
+        simpleName="androidx.annotation:annotation"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.7.10@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:15.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib-common"/>
+  </package>
+</dependencies>

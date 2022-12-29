@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.videoplayer.test" >
+4
+5    <uses-sdk
+5-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:5:15-41
+7        android:targetSdkVersion="16" />
+7-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:11:5-13:85
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:11:22-75
+11        android:label="Tests for io.flutter.plugins.videoplayer.test"
+11-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:13:22-83
+12        android:targetPackage="io.flutter.plugins.videoplayer.test" />
+12-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:12:22-81
+13
+14    <uses-permission android:name="android.permission.REORDER_TASKS" />
+14-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:24:5-72
+14-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:24:22-69
+15
+16    <application android:debuggable="true" >
+16-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:7:5-9:19
+16-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:7:18-43
+17        <uses-library android:name="android.test.runner" />
+17-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:8:9-60
+17-->C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest10313967475876553887.xml:8:23-57
+18
+19        <activity
+19-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:27:9-33:20
+20            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+20-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:28:13-99
+21            android:theme="@android:style/Theme" >
+21-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:29:13-49
+22            <intent-filter>
+22-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:30:13-32:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:31:17-69
+23-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:31:25-66
+24            </intent-filter>
+25        </activity>
+26        <activity
+26-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:34:9-40:20
+27            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+27-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:35:13-95
+28            android:theme="@android:style/Theme" >
+28-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:36:13-49
+29            <intent-filter>
+29-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:30:13-32:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:31:17-69
+30-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:31:25-66
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:41:9-47:20
+34            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+34-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:42:13-103
+35            android:theme="@android:style/Theme.Dialog" >
+35-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:43:13-56
+36            <intent-filter>
+36-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:30:13-32:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:31:17-69
+37-->[androidx.test:core:1.3.0] C:\Users\vladi\.gradle\caches\transforms-3\5ab46a3f13b5bcef2807d2433b712273\transformed\jetified-core-1.3.0\AndroidManifest.xml:31:25-66
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>

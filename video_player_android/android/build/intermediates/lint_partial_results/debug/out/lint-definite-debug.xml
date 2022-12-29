@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.2.1" type="incidents">
+
+    <incident
+        id="GradlePath"
+        severity="warning"
+        message="Do not use Windows file separators in .gradle files; use / instead">
+        <fix-replace
+            description="Replace with libs/flutter.jar"
+            oldString="libs\\flutter.jar"
+            replacement="libs/flutter.jar"/>
+        <location
+            file="${:*projectDir}/build.gradle"
+            line="73"
+            column="20"
+            startOffset="2021"
+            endLine="73"
+            endColumn="46"
+            endOffset="2047"/>
+    </incident>
+
+</incidents>

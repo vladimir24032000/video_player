@@ -1,0 +1,35 @@
+<libraries>
+  <library
+      name="__local_aars__:C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\libs\flutter.jar:unspecified@jar"
+      jars="C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\libs\flutter.jar"
+      resolved="__local_aars__:C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\libs\flutter.jar:unspecified"/>
+  <library
+      name="androidx.annotation:annotation:1.5.0@jar"
+      jars="C:\Users\vladi\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.5.0\857678d6b4ca7b28571ef7935c668bdb57e15027\annotation-1.5.0.jar"
+      resolved="androidx.annotation:annotation:1.5.0"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.7.10@jar"
+      jars="C:\Users\vladi\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.7.10\d2abf9e77736acc4450dc4a3f707fa2c10f5099d\kotlin-stdlib-1.7.10.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.7.10"/>
+  <library
+      name="org.jetbrains:annotations:15.0@jar"
+      jars="C:\Users\vladi\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\15.0\d40ab99147584cf6cfb5245be67b3fee2c7220f9\annotations-15.0.jar"
+      resolved="org.jetbrains:annotations:15.0"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10@jar"
+      jars="C:\Users\vladi\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-common\1.7.10\bac80c520d0a9e3f3673bc2658c6ed02ef45a76a\kotlin-stdlib-common-1.7.10.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10"/>
+  <library
+      name="C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android@@:::debug"
+      jars="C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\.transforms\cc2e6953d8bd95256aeb2145e8c424aa\transformed\out\jars\classes.jar;C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\.transforms\cc2e6953d8bd95256aeb2145e8c424aa\transformed\out\jars\libs\flutter.jar"
+      resolved="io.flutter.plugins.videoplayer:video_player_android:unspecified"
+      folder="C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android\build\.transforms\cc2e6953d8bd95256aeb2145e8c424aa\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

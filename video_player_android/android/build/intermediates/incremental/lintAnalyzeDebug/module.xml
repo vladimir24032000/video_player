@@ -1,0 +1,32 @@
+<lint-module
+    format="1"
+    dir="C:\Users\vladi\source\repos\loadapp_flutter\loadapp Flutter\loadapp Flutter\packages\video_player\video_player_android\android"
+    name=":"
+    type="LIBRARY"
+    maven="io.flutter.plugins.videoplayer:video_player_android:"
+    gradle="7.2.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\vladi\AppData\Local\Android\Sdk\platforms\android-31\android.jar;C:\Users\vladi\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      disable="AndroidGradlePluginVersion,InvalidPackage,GradleDependency"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="AndroidGradlePluginVersion"
+        severity="IGNORE" />
+      <severity
+        id="GradleDependency"
+        severity="IGNORE" />
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="debug"/>
+</lint-module>

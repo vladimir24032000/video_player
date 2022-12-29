@@ -1,0 +1,74 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.videoplayer",
+    "module": "video_player_android_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "video_player_android_release-1.0.aar",
+          "url": "video_player_android_release-1.0.aar",
+          "size": 11401715,
+          "sha512": "6a54f04df9fafea1439699725bd350cda7ebd93050c58c40eb4ced02e54d1ff958e6431179cfa936cbbb140f52f4f9323226d296dfe3558b17f9a9dd4815877b",
+          "sha256": "a0bd3ccf0b210871ef22aebfb236db2db5d073d1140daf8387b6f991246b5b3a",
+          "sha1": "dd5e67836a884fa3e4611bb66f7c198c2d754ad4",
+          "md5": "181765a541b72e4aa2328191c8ca097d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "15.0"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.5.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "video_player_android_release-1.0.aar",
+          "url": "video_player_android_release-1.0.aar",
+          "size": 11401715,
+          "sha512": "6a54f04df9fafea1439699725bd350cda7ebd93050c58c40eb4ced02e54d1ff958e6431179cfa936cbbb140f52f4f9323226d296dfe3558b17f9a9dd4815877b",
+          "sha256": "a0bd3ccf0b210871ef22aebfb236db2db5d073d1140daf8387b6f991246b5b3a",
+          "sha1": "dd5e67836a884fa3e4611bb66f7c198c2d754ad4",
+          "md5": "181765a541b72e4aa2328191c8ca097d"
+        }
+      ]
+    }
+  ]
+}
